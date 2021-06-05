@@ -1,0 +1,21 @@
+{
+  "name": "plusplusjakartasans",
+  "version": "1.0.0",
+  "description": "Self-hosted webfont for Plus Jakarta Sans",
+  "main": "plusjakartasans.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamkentleom/plusplusjakartasans"
+  },
+  "keywords": [
+    "Plus Jakarta Sans",
+    "webfont",
+    "font",
+    "css"
+  ],
+  "author": "Kent Leo L. Makibulan",
+  "license": "MIT"
+}
