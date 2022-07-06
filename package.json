@@ -1,6 +1,6 @@
 {
   "name": "plusplusjakartasans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Self-hosted webfont for Plus Jakarta Sans",
   "main": "plusjakartasans.css",
   "scripts": {
